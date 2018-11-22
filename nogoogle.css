@@ -1,0 +1,120 @@
+
+@font-face {font-family: Helvetica
+src: url("HelveNeuBolOut");
+}
+
+.linkclass {
+    font-family: "Helvetica";
+    font-size: 450px;
+    color: white;
+    background-color: ; 
+    display: inline;
+    padding: 100px;
+    left: 600px;
+    top: 800px;
+}
+
+body {
+
+    background-color: orange;
+}
+
+video.pos_right {
+    width: 450;
+    position: absolute;
+    left: 60%;
+    top: 0%;
+}
+
+video.pos_right2 {
+	width: 350;
+    position: absolute;
+    left: 60%	;
+    top: 520px;
+}
+
+video.pos_right3 {
+	width: 550;
+    position: absolute;
+    left: 68%;
+    top: 270px;
+}
+
+
+video.pos_right4 {
+	width: 350;
+    position: absolute;
+    left: 350px;
+    top: 700px;
+}
+
+
+video.pos_right5 {
+	width: 400;
+    position: absolute;
+    left: 700px;
+    top: 350px;
+}
+
+
+video.pos_right6 {
+    width: 550;
+    position: absolute;
+    left: 50px;
+    top: ;
+}
+
+
+video.pos_right7 {
+	width: 450;
+    position: absolute;
+    left: 0px;
+    top: 550px;
+}
+
+
+video.pos_right8 {
+	width: 350;
+    position: absolute;
+    left: 600px;
+    top: 50px;
+}
+
+
+video.pos_right9 {
+	width: 400;
+    position: absolute;
+    left: 650px;
+    top: 50px;
+}
+
+video.pos_right10 {
+    width: 650;
+    position: absolute;
+    left: 50px;
+    top: 170;
+}
+
+video.pos_right11 {
+	width: 650;
+    position: absolute;
+    left: 40%;
+    top: 570px;
+}
+
+video.pos_right12 {
+	width: 250;
+    position: absolute;
+    left: 80%;
+    top: 580px;
+}
+image.image1 {
+	width: 100;
+	height: 100;
+    position: relative;
+}
+
+text.box1 {
+width: 200px; height: 300px; background-color: white; border:10px double blue; position: absolute;
+
+}
